@@ -140,6 +140,6 @@ Created as a basic simulation of ATM functionality in Java.
 
 ---
 
-Would you like this saved as a downloadable `.md` file or want to include this in your project folder programmatically?
+
 
    
